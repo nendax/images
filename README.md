@@ -1,0 +1,1 @@
+{"data":{"games":[{"description":"Избегайте ловушек и крадите золото у других игроков в уникальном многопользовательском PVP-платформере King of Thieves!","name":"King of Thieves","urlLogo":"36LOgpz4KbG5CDdhKa-niAwAqGoZqP6hXvmdf-p4VO-2GlyExOD4Qgm3FA23D9PpDg=w300-rw","urlMarket":"com.zeptolab.thieves.google\u0026hl=ru"}],"type":"games", "show_push":"net"}}
